@@ -1,11 +1,14 @@
 ## Bem-vindo(a) !! 👾
 
  <div>
-   <a href="https://github.com/gabrielmendes
+   <a href="https://github.com/Gabriel-Mendes1
+
 ">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmendes
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Mendes1
+
 &show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmendes
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Mendes1
+
 &layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
@@ -23,8 +26,10 @@
   <a href = "mailto:gabrieldevsistem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/gabrielmendes
-/gabrielmendes
+  ![Snake animation](https://github.com/Gabriel-Mendes1
+
+/Gabriel-Mendes1
+
 /blob/output/github-contribution-grid-snake.svg)
 
 </div>
